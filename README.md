@@ -1,0 +1,1 @@
+Quick 10 lines app to kill and start frida server
